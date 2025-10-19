@@ -1,0 +1,6 @@
+{
+    "model_name": "ResNet",
+    "total_parameters": 21286211,
+    "trainable_parameters": 1539,
+    "device": "cpu"
+}

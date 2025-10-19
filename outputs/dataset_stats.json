@@ -1,0 +1,15 @@
+{
+    "total_samples": 4072,
+    "train_samples": 90,
+    "test_samples": 39,
+    "class_distribution": {
+        "with_mask": 3232,
+        "mask_weared_incorrect": 123,
+        "without_mask": 717
+    },
+    "class_percentages": {
+        "with_mask": 79.3713163064833,
+        "mask_weared_incorrect": 3.020628683693517,
+        "without_mask": 17.608055009823183
+    }
+}
